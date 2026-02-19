@@ -1850,112 +1850,113 @@ msgstr "急火攻心"
 
 # MutualAction Base
 msgid "mutual_action_name"
-msgstr "互动动作"
+msgstr "浜掑姩鍔ㄤ綔"
 
 msgid "mutual_action_requirements"
-msgstr "交互范围内可互动"
+msgstr "浜や簰鑼冨洿鍐呭彲浜掑姩"
 
 msgid "Cannot initiate interaction with self"
-msgstr "不能对自己发起互动"
+msgstr "涓嶈兘瀵硅嚜宸卞彂璧蜂簰鍔"
 
 msgid "{initiator} initiates {action} with {target}"
-msgstr "{initiator} 对 {target} 发起 {action}"
+msgstr "{initiator} 瀵?{target} 鍙戣捣 {action}"
 
 msgid "{target} feedback to {initiator}: {feedback}"
-msgstr "{target} 对 {initiator} 的反馈：{feedback}"
+msgstr "{target} 瀵?{initiator} 鐨勫弽棣堬細{feedback}"
 
 # MutualAction: Attack
 msgid "mutual_attack_action_name"
-msgstr "攻击"
+msgstr "鏀诲嚮"
 
 msgid "mutual_attack_description"
-msgstr "对目标进行攻击"
+msgstr "瀵圭洰鏍囪繘琛屾敾鍑"
 
 msgid "mutual_attack_requirements"
-msgstr "目标在交互范围内；不能连续执行"
+msgstr "鐩爣鍦ㄤ氦浜掕寖鍥村唴锛涗笉鑳借繛缁墽琛"
 
 msgid "Target not within interaction range"
-msgstr "目标不在交互范围内"
+msgstr "鐩爣涓嶅湪浜や簰鑼冨洿鍐"
 
 # MutualAction: DriveAway
 msgid "drive_away_action_name"
-msgstr "驱赶"
+msgstr "椹辫刀"
 
 msgid "drive_away_description"
-msgstr "以武力威慑对方离开此地"
+msgstr "浠ユ鍔涘▉鎱戝鏂圭寮€姝ゅ湴"
 
 msgid "drive_away_requirements"
-msgstr "目标在交互范围内；不能连续执行"
+msgstr "鐩爣鍦ㄤ氦浜掕寖鍥村唴锛涗笉鑳借繛缁墽琛"
 
 msgid "Cannot drive away in wilderness"
-msgstr "荒野之中无法驱赶"
+msgstr "鑽掗噹涔嬩腑鏃犳硶椹辫刀"
 
 # MutualAction: Conversation
 msgid "conversation_action_name"
-msgstr "交谈"
+msgstr "浜よ皥"
 
 msgid "conversation_description"
-msgstr "与对方进行一段交流对话"
+msgstr "涓庡鏂硅繘琛屼竴娈典氦娴佸璇"
 
 msgid "conversation_requirements"
-msgstr "目标在交互范围内"
+msgstr "鐩爣鍦ㄤ氦浜掕寖鍥村唴"
 
 msgid "{avatar1} conversation with {avatar2}: {content}"
-msgstr "{avatar1} 与 {avatar2} 的交谈：{content}"
+msgstr "{avatar1} 涓?{avatar2} 鐨勪氦璋堬細{content}"
 
 # MutualAction: Talk
 msgid "talk_action_name"
-msgstr "攀谈"
+msgstr "鏀€璋"
 
 msgid "talk_description"
-msgstr "向某人发起攀谈，对象不能是自己"
+msgstr "鍚戞煇浜哄彂璧锋攢璋堬紝瀵硅薄涓嶈兘鏄嚜宸"
 
 msgid "talk_requirements"
-msgstr "对象在交互范围内"
+msgstr "瀵硅薄鍦ㄤ氦浜掕寖鍥村唴"
 
 msgid "feedback_talk"
-msgstr "接受攀谈"
+msgstr "鎺ュ彈鏀€璋"
 
 msgid "{target} accepted {initiator}'s talk invitation"
-msgstr "{target} 接受了 {initiator} 的攀谈"
+msgstr "{target} 鎺ュ彈浜?{initiator} 鐨勬攢璋"
 
 msgid "{target} rejected {initiator}'s talk invitation"
-msgstr "{target} 拒绝了 {initiator} 的攀谈"
+msgstr "{target} 鎷掔粷浜?{initiator} 鐨勬攢璋"
 
 # MutualAction: Spar
 msgid "spar_action_name"
-msgstr "切磋"
+msgstr "鍒囩"
 
 msgid "spar_description"
-msgstr "与目标切磋武艺，点到为止（大幅增加武器熟练度，不造成伤害）"
+msgstr "涓庣洰鏍囧垏纾嬫鑹猴紝鐐瑰埌涓烘锛堝ぇ骞呭鍔犳鍣ㄧ啛缁冨害锛屼笉閫犳垚浼ゅ锛"
 
 msgid "spar_requirements"
-msgstr "交互范围内可互动；不能连续执行"
+msgstr "浜や簰鑼冨洿鍐呭彲浜掑姩锛涗笉鑳借繛缁墽琛"
 
 msgid "spar_story_prompt"
-msgstr "这是两人之间的友好切磋，点到为止，没有真正的伤害。重点描写双方招式的精妙和互相的印证启发。不要出现血腥或重伤描述。"
+msgstr ""
+"杩欐槸涓や汉涔嬮棿鐨勫弸濂藉垏纾嬶紝鐐瑰埌涓烘锛屾病鏈夌湡姝ｇ殑浼ゅ銆傞噸鐐规弿鍐欏弻鏂规嫑寮忕殑绮惧鍜屼簰鐩哥殑鍗拌瘉鍚彂銆備笉瑕佸嚭鐜拌鑵ユ垨閲嶄激鎻忚堪銆"
 
 msgid ""
 "{winner} gained slight advantage in sparring, defeated {loser}. ({winner} "
 "proficiency +{w_gain}, {loser} proficiency +{l_gain})"
 msgstr ""
-"{winner} 在切磋中略胜一筹，战胜了 {loser}。（{winner} 熟练度+{w_gain}，{loser} 熟练度+{l_gain}）"
+"{winner} 在切磋中略胜一筹，战胜了 {loser}。（{winner} 熟练度 +{w_gain}，{loser} 熟练度 +{l_gain}）"
 
 msgid "{initiator} challenges {target} to spar"
-msgstr "{initiator} 向 {target} 发起切磋"
+msgstr "{initiator} 鍚?{target} 鍙戣捣鍒囩"
 
 # MutualAction: Gift
 msgid "gift_action_name"
-msgstr "赠送"
+msgstr "璧犻€"
 
 msgid "gift_description"
-msgstr "向对方赠送灵石或物品。参数 'item_id' 请填入物品 ID（数字）或 'SPIRIT_STONE'（灵石）。"
+msgstr "鍚戝鏂硅禒閫佺伒鐭虫垨鐗╁搧銆傚弬鏁?'item_id' 璇峰～鍏ョ墿鍝?ID锛堟暟瀛楋級鎴?'SPIRIT_STONE'锛堢伒鐭筹級銆"
 
 msgid "gift_requirements"
-msgstr "发起者持有该物品；目标在交互范围内；丹药不可赠送"
+msgstr "鍙戣捣鑰呮寔鏈夎鐗╁搧锛涚洰鏍囧湪浜や簰鑼冨洿鍐咃紱涓硅嵂涓嶅彲璧犻€"
 
 msgid "spirit stones"
-msgstr "灵石"
+msgstr "鐏电煶"
 
 msgid "Item not found: {name}"
 msgstr "未找到物品：{name}"
@@ -1970,78 +1971,78 @@ msgid "Insufficient item: {name}"
 msgstr "物品不足：{name}"
 
 msgid "Elixirs cannot be gifted"
-msgstr "丹药不可赠送"
+msgstr "涓硅嵂涓嶅彲璧犻€"
 
 msgid "Gift you {item}"
 msgstr "向你赠送 {item}"
 
 msgid "{initiator} attempts to gift {item} to {target}"
-msgstr "{initiator} 试图向 {target} 赠送 {item}"
+msgstr "{initiator} 璇曞浘鍚?{target} 璧犻€?{item}"
 
 msgid "{initiator} successfully gifted {item} to {target}"
-msgstr "{initiator} 成功赠送了 {item} 给 {target}"
+msgstr "{initiator} 鎴愬姛璧犻€佷簡 {item} 缁?{target}"
 
 # MutualAction: Impart
 msgid "impart_action_name"
-msgstr "传道"
+msgstr "传功"
 
 msgid "impart_description"
-msgstr "师傅向徒弟传授修炼经验，徒弟可获得大量修为"
+msgstr "长辈向下游晚辈传授修炼经验（血缘或师门传承）。"
 
 msgid "impart_requirements"
-msgstr "发起者是目标的师傅；师傅等级 > 徒弟等级 + 20；目标在交互范围内；不能连续执行"
+msgstr "目标必须是发起者的下游晚辈（子女/徒弟链，深度≤2），等级差≥20，且在交互范围内；不可连续执行"
 
-msgid "Target is not your apprentice"
-msgstr "目标不是自己的徒弟"
+msgid "Target is not your downstream junior"
+msgstr "目标不是你的下游晚辈"
 
 msgid ""
 "Level difference insufficient, need 20 levels (current gap: {diff} levels)"
 msgstr "等级差不足20级（当前差距：{diff}级）"
 
-msgid "{master} imparts cultivation knowledge to apprentice {apprentice}"
-msgstr "{master} 向徒弟 {apprentice} 传道授业"
+msgid "{giver} imparts cultivation knowledge to {receiver}"
+msgstr "{giver} 向 {receiver} 传授修炼心得"
 
 # MutualAction: Occupy
 msgid "occupy_action_name"
-msgstr "抢夺洞府"
+msgstr "鎶㈠ず娲炲簻"
 
 msgid "occupy_description"
-msgstr "占据或抢夺洞府。注意可能引发和洞府主人的战斗"
+msgstr "鍗犳嵁鎴栨姠澶烘礊搴溿€傛敞鎰忓彲鑳藉紩鍙戝拰娲炲簻涓讳汉鐨勬垬鏂"
 
 msgid "occupy_requirements"
-msgstr "目标在交互范围内；不能连续执行"
+msgstr "鐩爣鍦ㄤ氦浜掕寖鍥村唴锛涗笉鑳借繛缁墽琛"
 
 msgid "occupy_story_prompt"
-msgstr "这是一场争夺洞府的战斗。不要出现具体血量或伤害数值。"
+msgstr "杩欐槸涓€鍦轰簤澶烘礊搴滅殑鎴樻枟銆備笉瑕佸嚭鐜板叿浣撹閲忔垨浼ゅ鏁板€笺€"
 
 msgid "feedback_yield"
-msgstr "让步"
+msgstr "璁╂"
 
 msgid "Cannot find region: {region}"
 msgstr "无法找到区域：{region}"
 
 msgid "{region} is not a cultivation area, cannot occupy"
-msgstr "{region} 不是修炼区域，无法占据"
+msgstr "{region} 涓嶆槸淇偧鍖哄煙锛屾棤娉曞崰鎹"
 
 msgid "Already the owner of this cave dwelling"
-msgstr "已经是该洞府的主人了"
+msgstr "宸茬粡鏄娲炲簻鐨勪富浜轰簡"
 
 msgid "{initiator} attempts to seize {region} from {host}"
-msgstr "{initiator} 对 {host} 的 {region} 发起抢夺"
+msgstr "{initiator} 瀵?{host} 鐨?{region} 鍙戣捣鎶㈠ず"
 
 msgid "{initiator} forced {target} to yield {region}"
-msgstr "{initiator} 逼迫 {target} 让出了 {region}"
+msgstr "{initiator} 閫艰揩 {target} 璁╁嚭浜?{region}"
 
 msgid ""
 "{initiator} attempted to seize {target}'s cave dwelling {region}, {target} "
 "rejected and engaged in battle"
-msgstr "{initiator} 试图抢夺 {target} 的洞府 {region}，{target} 拒绝并应战"
+msgstr "{initiator} 璇曞浘鎶㈠ず {target} 鐨勬礊搴?{region}锛寋target} 鎷掔粷骞跺簲鎴"
 
 msgid ", successfully seized {region}"
-msgstr "，成功夺取了 {region}"
+msgstr "锛屾垚鍔熷ず鍙栦簡 {region}"
 
 msgid ", defended {region}"
-msgstr "，守住了 {region}"
+msgstr "锛屽畧浣忎簡 {region}"
 
 # Realm
 msgid "qi_refinement"

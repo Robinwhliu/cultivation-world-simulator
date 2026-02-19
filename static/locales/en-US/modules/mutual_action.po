@@ -1,4 +1,4 @@
-#
+﻿#
 msgid ""
 msgstr ""
 "Project-Id-Version: cultivation-world-simulator 1.0\n"
@@ -161,26 +161,21 @@ msgid "impart_action_name"
 msgstr "Impart Knowledge"
 
 msgid "impart_description"
-msgstr ""
-"Master imparts cultivation experience to apprentice, apprentice can gain "
-"large amount of cultivation"
+msgstr "Senior cultivator imparts cultivation knowledge to a downstream junior (family or sect lineage)."
 
 msgid "impart_requirements"
-msgstr ""
-"Initiator is target's master; master level > apprentice level + 20; target "
-"within interaction range; cannot execute consecutively"
+msgstr "Target must be giver's downstream junior (child/disciple lineage, depth <= 2), level gap >= 20, and within interaction range; cannot execute consecutively"
 
-msgid "Target is not your apprentice"
-msgstr "Target is not your apprentice"
+msgid "Target is not your downstream junior"
+msgstr "Target is not your downstream junior"
 
 msgid ""
 "Level difference insufficient, need 20 levels (current gap: {diff} levels)"
 msgstr ""
 "Level difference insufficient, need 20 levels (current gap: {diff} levels)"
 
-msgid "{master} imparts cultivation knowledge to apprentice {apprentice}"
-msgstr "{master} imparts cultivation knowledge to apprentice {apprentice}"
-
+msgid "{giver} imparts cultivation knowledge to {receiver}"
+msgstr "{giver} imparts cultivation knowledge to {receiver}"
 # MutualAction: Occupy
 msgid "occupy_action_name"
 msgstr "Seize Cave Dwelling"
@@ -226,3 +221,6 @@ msgstr ", successfully seized {region}"
 
 msgid ", defended {region}"
 msgstr ", defended {region}"
+
+
+
